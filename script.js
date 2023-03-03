@@ -1,6 +1,6 @@
-const ratingCard = document.querySelector('.card__rating')
-const thanksCard = document.querySelector('.thanks__rating')
-const ratingValor = document.querySelectorAll(".valor__number")
+const ratingCard = document.querySelector('.rating__section')
+const thanksCard = document.querySelector('.thanks__section')
+const ratingValor = document.querySelectorAll(".item__values")
 const ratingBtn = document.querySelector('.rating__btn')
 const yourRating = document.querySelector('.your-rate')
 
