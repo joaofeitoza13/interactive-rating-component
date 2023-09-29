@@ -8,7 +8,7 @@ Hi there 👋, I’m João and this is my solution for this challenge. 🚀
 - BEM naming convention;
 - Reset CSS;
 
-🎯 Stuff to try in future projects:
+🎯 Tools to try in future projects:
 
 - Reactjs
 - Tailwind CSS
